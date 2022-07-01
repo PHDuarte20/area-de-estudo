@@ -1,0 +1,26 @@
+# JavaScript
+
+
+
+> This folder will contain all content related to Internet Programming Language __*JavaScript*__, from articles to videos about:
+
+- Functionalities
+
+- How to Use
+
+- Courses
+
+- Tips
+
+- News
+
+- Libraries
+
+- Other areas like Node.Js
+
+  
+
+> **JavaScript** (**JS**) is a lightweight, interpreted, or [just-in-time](https://en.wikipedia.org/wiki/Just-in-time_compilation) compiled programming language with [first-class functions](https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function). While it is most well-known as the scripting language for Web pages, [many non-browser environments](https://en.wikipedia.org/wiki/JavaScript#Other_usage) also use it, such as [Node.js](https://developer.mozilla.org/en-US/docs/Glossary/Node.js), [Apache CouchDB](https://couchdb.apache.org/) and [Adobe Acrobat](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/). JavaScript is a [prototype-based](https://developer.mozilla.org/en-US/docs/Glossary/Prototype-based_programming), multi-paradigm, single-threaded, dynamic language, supporting  object-oriented, imperative, and declarative (e.g. functional  programming) styles. Read more [about JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript).
+
+
+
